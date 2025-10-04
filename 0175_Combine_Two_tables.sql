@@ -1,6 +1,9 @@
 /*
 LeetCode 175: Combine Two Tables
 
+📅 Solve History
+- Try 1: 2025-10-04 03:57
+
 175. Combine two tables
 
 Table: Person
