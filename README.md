@@ -1,8 +1,10 @@
-## 📊 Problem Tracker
+# LeetCode
 
-| # | Problem | Difficulty | Topic(s) | Status | Solution |
-|---|--------|-----------|----------|--------|----------|
-| 1 | Two Sum | Easy | Array, HashMap | ✅ | [Leetcode/0001_two_sum.py) |
-| 2 | Add Two Numbers | Medium | Linked List | ⏳ | — |
-| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | 🔁 | [Python](solutions/0003_longest_substring.py) |
-| 4 | Median of Two Sorted Arrays | Hard | Binary Search | ⏳ | — |
+## Problem Map (0001–3736)
+![LeetCode Problem Map](leetcode_map.svg)
+
+## Completed
+0180,0181,0182,0183,1768
+
+## Pending
+0001–0179,0184–1767,1769–3736
